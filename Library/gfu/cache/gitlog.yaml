@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-01-27T15:14:42.403+05:30
+  initializedAtString: 2019-01-27T15:09:13.521+05:30
+  log:
+  - commitID: 98174387d908404d26f75fe1b2e552844dc9937a
+    mergeA: 
+    mergeB: 
+    authorName: Shubham Baghe
+    authorEmail: shubham.baghe8910@gmail.com
+    commitEmail: shubham.baghe8910@gmail.com
+    commitName: Shubham Baghe
+    summary: first commit
+    description: first commit
+    timeString: 2019-01-27T15:01:36.000+05:30
+    commitTimeString: 2019-01-27T15:01:36.000+05:30
+    changes:
+    - path: README.md
+      fullPath: D:\Unity Projects\SelfDriving\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0
